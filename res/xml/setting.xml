@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:dialogTitle="@string/setting_alipass_dir_title"
+        android:key="alipass_dir"
+        android:title="@string/setting_alipass_dir_title" />
+    
+    <EditTextPreference
+        android:dialogTitle="@string/setting_download_path_title"
+        android:key="download_path"
+        android:title="@string/setting_download_path_title" />
+
+</PreferenceScreen>

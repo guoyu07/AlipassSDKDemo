@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="activity_main_title">支付宝 AlipassDemo</string>
+    <string name="sdcard_off">sdcard异常</string>
+    <string name="scan_alipass">扫描</string>
+	<string name="setting">设置</string>
+	<string name="setting_alipass_dir_title">pass文件夹</string>
+	<string name="setting_download_path_title">下载地址</string>
+	<string name="download_dialog_message">是否下载新版支付宝钱包？</string>
+	<string name="generate_alipass">生成alipass</string>
+	<string name="delete_alipass_message">确认删除该alipass文件？</string>
+    
+</resources>
